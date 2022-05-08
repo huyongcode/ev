@@ -7,6 +7,7 @@ const char *g_log_str[] = {
 		"DEBUG",
 		"INFO",
 		"WARN",
+		"ALEART"
 		"ERR"
 };
 
